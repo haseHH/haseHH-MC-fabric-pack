@@ -1,0 +1,126 @@
+{
+  "minecraft": {
+    "version": "1.19",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.8",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "author": "haseHH",
+  "name": "haseHH",
+  "files": [
+    {
+      "projectID": 248787,
+      "fileID": 3821727,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 280294,
+      "fileID": 3822849,
+      "required": true,
+      "__meta": {
+        "name": "FPS Reducer",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 306612,
+      "fileID": 3831112,
+      "required": true,
+      "__meta": {
+        "name": "Fabric API",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 308702,
+      "fileID": 3821162,
+      "required": true,
+      "__meta": {
+        "name": "Mod Menu"
+      }
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3827486,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 360438,
+      "fileID": 3825272,
+      "required": true,
+      "__meta": {
+        "name": "Lithium (Fabric)"
+      }
+    },
+    {
+      "projectID": 372124,
+      "fileID": 3832074,
+      "required": true,
+      "__meta": {
+        "name": "Phosphor (Fabric)"
+      }
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3820973,
+      "required": true,
+      "__meta": {
+        "name": "Sodium"
+      }
+    },
+    {
+      "projectID": 401648,
+      "fileID": 3825938,
+      "required": true,
+      "__meta": {
+        "name": "BetterF3",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 433518,
+      "fileID": 3821870,
+      "required": true,
+      "__meta": {
+        "name": "LazyDFU"
+      }
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3823508,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling Fabric/Forge"
+      }
+    },
+    {
+      "projectID": 459857,
+      "fileID": 3824694,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Fabric)"
+      }
+    }
+  ]
+}
