@@ -3,7 +3,7 @@
     "version": "1.19",
     "modLoaders": [
       {
-        "id": "fabric-0.14.8",
+        "id": "fabric-0.14.7",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "haseHH",
   "name": "haseHH",
   "files": [
