@@ -16,6 +16,7 @@ This is just a small utility pack, mostly with performance mods, for players on 
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)                      | minimize entity rendering load (improves framerate)                       |
 | [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)                           | reduce rendered frames during inactivity                                  |
 | [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)                                 | replace default F3 debug screen for better readablility                   |
+| [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options-fabric)            | replace default client config, mostly to include my server in the list    |
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)                               | food and hunger information extension                                     |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | add enchantment description to book tooltip                               |
 | ~~[MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)~~                               | ~~displays various information on the screen~~ not yet available for 1.19 |

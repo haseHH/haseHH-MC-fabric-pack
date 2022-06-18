@@ -121,6 +121,30 @@
       "__meta": {
         "name": "FerriteCore (Fabric)"
       }
+    },
+    {
+      "projectID": 500525,
+      "fileID": 3836631,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Fabric Edition)",
+        "explicit": false,
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 547694,
+      "fileID": 3832591,
+      "required": true,
+      "__meta": {
+        "name": "Default Options (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
     }
   ]
 }
